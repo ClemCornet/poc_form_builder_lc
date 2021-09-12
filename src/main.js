@@ -4,6 +4,8 @@ import App from './App.vue'
 import { routes } from './routes.js'
 import { createRouter, createWebHistory } from 'vue-router'
 
+import veevalidate from '@/plugins/veevalidate'
+
 const app = createApp(App)
 
 const router = createRouter({
@@ -11,5 +13,6 @@ const router = createRouter({
   routes,
 })
 
+app.use(veevalidate)
 app.use(router)
 app.mount('#app')

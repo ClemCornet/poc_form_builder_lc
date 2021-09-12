@@ -1,5 +1,5 @@
 <script setup>
-import ButtonRepo from '@/components/ButtonRepo.vue'
+import BaseButton from '@/components/BaseButton.vue'
 </script>
 
 <template>
@@ -10,19 +10,19 @@ import ButtonRepo from '@/components/ButtonRepo.vue'
       <h2
         class="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
       >
-        About Page
+        Ready to play ?
         <br />
-        <span class="text-indigo-600">Vite + Vue 3 + Tailwind CSS</span>
+        <span class="text-2xl text-indigo-600">Form example</span>
       </h2>
       <div class="flex mt-8 lg:flex-shrink-0 lg:mt-0">
         <div class="inline-flex rounded-md shadow">
           <router-link
             to="/"
             class="inline-flex items-center justify-center px-5 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out bg-indigo-600 border border-transparent rounded-md hover:bg-indigo-500 focus:outline-none"
-            >Back Home</router-link
           >
+            Back Home
+          </router-link>
         </div>
-        <ButtonRepo />
       </div>
     </div>
   </div>

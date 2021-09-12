@@ -7,6 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@formvuelate/plugin-vee-validate": "^3.6.0",
+    "@vee-validate/rules": "^4.4.7",
+    "formvuelate": "^3.5.3",
+    "vee-validate": "^4.4.11",
     "vue": "^3.2.11",
     "vue-router": "^4.0.11"
   },
@@ -17,11 +21,13 @@
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/line-clamp": "^0.2.1",
     "@tailwindcss/typography": "^0.4.1",
-    "autoprefixer": "^10.3.4",
     "@types/tailwindcss": "^2.2.1",
-    "tailwindcss": "^2.2.14",
-    "@vue/compiler-sfc": "^3.2.11",
     "@vitejs/plugin-vue": "^1.6.2",
+    "@vue/compiler-sfc": "^3.2.11",
+    "autoprefixer": "^10.3.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.17.0",
+    "tailwindcss": "^2.2.14",
     "vite": "^2.5.6"
   }
 }
