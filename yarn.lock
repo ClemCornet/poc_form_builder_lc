@@ -58,10 +58,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@formvuelate/plugin-vee-validate@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@formvuelate/plugin-vee-validate/-/plugin-vee-validate-3.6.0.tgz#1e5b19bdba0404cdceba3567d39982afe13b8df5"
-  integrity sha512-oHQWyn4xu1cpCPvBz41l0W4yml8Atzvnu5rkQ264JnvqwO0NH0JX5jTtd6vmVfXVy8LfxjEY9ZP/v9BodA33YQ==
+"@formvuelate/plugin-vee-validate@^3.6.4":
+  version "3.6.4"
+  resolved "https://registry.yarnpkg.com/@formvuelate/plugin-vee-validate/-/plugin-vee-validate-3.6.4.tgz#50047f5bb535ceea3db1feefda9e69fbf6e1354d"
+  integrity sha512-Qre3amHItpetLMG4UH0KNEWkBq1z3q3NnB9a7fC5j462Lj4Bh0v9gIQtkes4HyXZW01pW8IdYi0hkyRD0Trxuw==
 
 "@headlessui/vue@^1.4.1":
   version "1.4.1"
