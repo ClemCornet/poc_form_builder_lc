@@ -851,10 +851,10 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.2.tgz#64bfed5cb68fe3ca78b3eb214ad97b63bedce561"
   integrity sha512-JaTY/wtrcSyvXJl4IMFHPKyFur1sE9AUqc0QnhOaJ0CxHtAoIV8pYDzeEfAaNEtGkOfq4gr3LBFmdXW5mOQFnA==
 
-formvuelate@^3.5.3:
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/formvuelate/-/formvuelate-3.5.3.tgz#d9723e6c78adf15549738b9cc75a9bc051a81fad"
-  integrity sha512-ArwBF41RtWJiMLhSwktf5mzXIXdcQBNCInlM1Nvkyk72yJTLnWA0X7gVdBJBgBLO+wT8OyAJnftcv0pdH/CgpA==
+formvuelate@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/formvuelate/-/formvuelate-3.7.0.tgz#b7a809271b1be4fb4d7b5f8ee098d0fdf57a7d9e"
+  integrity sha512-agowPu+80ZYsHyUiZ4M2o3oggVewkTU0I1N5GmRTd9eV+TQdSRf5kFygM7cnMXw9muv41xXo8VOnwz4qLXSB1w==
 
 fraction.js@^4.1.1:
   version "4.1.1"
