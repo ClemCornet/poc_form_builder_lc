@@ -10,7 +10,7 @@
     "@formvuelate/plugin-vee-validate": "^3.6.0",
     "@vee-validate/rules": "^4.4.7",
     "formvuelate": "^3.5.3",
-    "vee-validate": "^4.4.11",
+    "vee-validate": "^4.5.10",
     "vue": "^3.2.11",
     "vue-router": "^4.0.11"
   },
